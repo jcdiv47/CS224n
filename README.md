@@ -6,4 +6,4 @@ This is to record my journey of learning the basics of Natural Language Processi
 
 ## Assignment 2: word2vec
 
-In \textbf{word2vec}
+In $\textbf{word2vec}$
